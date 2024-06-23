@@ -28,10 +28,16 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
 ### File Structure
-- -Object-Detection-with-YOLO-and-Kalman-Filter/
-  - supervision_live_feed.py
-  - README.md
-  - requirements.txt
+-Object-Detection-with-YOLO-and-Kalman-Filter/
+
+│
+
+├── supervision_live_feed.py
+
+├── README.md
+
+└── requirements.txt
+
 
 
 
