@@ -20,3 +20,10 @@ Make sure you have Python 3.6 or higher installed. You can download Python from 
 ```bash
 git clone https://github.com/AnikaitOO7/-Object-Detection-with-YOLO-and-Kalman-Filter
 cd -Object-Detection-with-YOLO-and-Kalman-Filter
+```
+
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+pip install -r requirements.txt
+
